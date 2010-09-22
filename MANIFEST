@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Data-RoundRobinShared.t
+lib/Data/RoundRobinShared.pm
